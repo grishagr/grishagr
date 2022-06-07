@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @grishagr
+- 👀 I’m interested in machine learning and game development
+- 🌱 I’m currently learning and exploring new programming languages
+- 📫 Reach out to me at grishahatavets@gmail.com
