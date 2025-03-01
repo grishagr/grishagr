@@ -1,4 +1,4 @@
-- Hi, I’m Grisha.
+- Hi, I’m Grisha
 - I’m interested in machine learning and convex optimization techniques
 - I’m currently looking for software engineering jobs
 - Reach out to me at grishahatavets@gmail.com
